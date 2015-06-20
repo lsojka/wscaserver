@@ -23,8 +23,8 @@ public class CaPublisher {
 
 	/**
 	 * 
-	 * @param N Rozmiar 
-	 * @param rule
+	 * @param N Size of the automata. 
+	 * @param rule Automata rule.
 	 * @return Call to actual function executing business logic part.
 	 */
 	@WebMethod

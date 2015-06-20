@@ -75,7 +75,7 @@ public class CaServiceImpl {
 	}
 	
 	/**
-	 * Transforming decimal rule to binary array used in transformations.
+	 * Conversion of decimal rule to binary array used in transformations.
 	 * 
 	 * @param _r Rule in decimal representation.
 	 */
